@@ -10,7 +10,7 @@ The AirBnB clone project starts now until the end of the first year. The goal of
 - manage (create, update, destroy, etc) objects via a console / command interpreter.
 - store and persist objects to a file (JSON file).
 
-![Screenshot 2023-07-11 031150](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/66abac04-da73-4e91-9747-f1ef3e51adf2)
+![The console](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/66abac04-da73-4e91-9747-f1ef3e51adf2)
 
 ### `Web static`
 
@@ -18,35 +18,35 @@ The AirBnB clone project starts now until the end of the first year. The goal of
 - create the HTML of your application.
 - create template of each object.
 
-![Screenshot 2023-07-11 031328](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/3a09f8aa-43db-408e-89b9-b13341a97a3a)
+![Web static](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/3a09f8aa-43db-408e-89b9-b13341a97a3a)
 
 ### `MySQL storage`
 
 - replace the file storage by a Database storage.
 - map your models to a table in database by using an O.R.M.
 
-![Screenshot 2023-07-11 031440](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/d82d9d3a-674a-480c-bc5b-b451f54b9fe6)
+![MySQL storage](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/d82d9d3a-674a-480c-bc5b-b451f54b9fe6)
 
 ### `Web framework - templating`
 
 - create your first web server in Python.
 - make your static HTML file dynamic by using objects stored in a file or database.
 
-![Screenshot 2023-07-11 031552](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/ed359454-5993-482b-804b-d348bb769fc8)
+![Web framework - templating](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/ed359454-5993-482b-804b-d348bb769fc8)
 
 ### `RESTful API`
 
 - expose all your objects stored via a JSON web interface.
 - manipulate your objects via a RESTful API.
 
-![Screenshot 2023-07-11 031651](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/52ebf658-4899-4764-8ee3-ef56668d475c)
+![RESTful API](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/52ebf658-4899-4764-8ee3-ef56668d475c)
 
 ### `Web dynamic`
 
 - learn JQuery.
 - load objects from the client side by using your own RESTful API.
 
-![Screenshot 2023-07-11 031752](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/8a459893-da68-4006-99fd-1d7265054193)
+![Web dynamic](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/8a459893-da68-4006-99fd-1d7265054193)
 
 ## Files and Directories
 
@@ -133,3 +133,7 @@ a_dict = { 'my_date': date_now }
 print(type(a_dict['my_date'])) # <class 'datetime.datetime'>
 print(a_dict) # {'my_date': datetime.datetime(2017, 6, 8, 20, 42, 42, 170922)}
 ```
+
+## `Data digram`
+
+![Data digram](https://github.com/danaelshrbiny10/AirBnB_clone/assets/54659424/d4d58a7b-6a1c-4b03-b8aa-83129be474b8)
